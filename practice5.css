@@ -13,7 +13,7 @@
 .header-img {
     width: auto;
     height: 400px;
-    background-image: url(../FB.jpg);
+    background-image: url(/FB.jpg)
     align-content: center;
 }
 
