@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    height: 70px;
+    width: auto;
+    background-color: black;
+    color: white;
+}
+
+.bg-img {
+    height: 400px;
+    width: auto;
+    background-image: url('../FB.jpg ');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.para-one {
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+}

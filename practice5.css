@@ -1,0 +1,84 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+/* header option */
+.header {
+    width: auto;
+    height: 400px;
+    align-content: center;
+}
+
+.header-img {
+    width: auto;
+    height: 400px;
+    background-image: url(../FB.jpg);
+    align-content: center;
+}
+
+.header-text{
+   font-size: 50px;
+   font-weight: bold;
+   color: gold;
+   text-align: center;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    /* width: 800px; */
+    align-items: self-end;
+}
+
+
+/* -------------------------------- */
+
+.about-me {
+    width: auto;
+    height: 200px;
+    /* background-color: black; */
+    color: aquamarine;
+    margin-top: 50px;
+    text-align: center;
+    align-content: center;
+}
+
+.about-header {
+   color: black;
+   font-weight:bolder;
+   font-size: 29px;
+   display: inline-block;
+   background-color: orange;
+   border: 2px solid orange;
+   border-radius: 25px;
+   padding: 10px;
+   box-shadow: 3px 3px 3px 3px rgb(71, 71, 71);
+}
+
+.about-text {
+    color: black;
+    /* background-color: darkgray; */
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
