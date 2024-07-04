@@ -82,12 +82,25 @@
    box-shadow: 3px 3px 3px 3px rgb(71, 71, 71);
 }
 
-/* 4 works */
+/* 3 works */
+
+.first-second-third-works {
+    display: flex;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 50px;
+    
+}
 
 .ads {
     width: 250px;
     height: 300px;
-    background-color: cadetblue;
+    background-color: white;
+    border: 2px solid orange;
+    align-content: center;
+    text-align: center;
 }
 
 .ads-image {
@@ -96,7 +109,66 @@
     background-image: url(ADS.png);
     background-size: contain;
     background-repeat: no-repeat;
-    
+}
+
+.ads-header {
+    text-align: center;
+    align-items: center;
+    color: orange;
+}
+
+.ads-text {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.learn-more {
+    margin-top: 10px;
+    text-decoration: underline;
+}
+
+/* graphic design */
+
+.gd {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid orange;
+    align-content: center;
+    text-align: center;
+}
+
+.gd-image {
+    width: 250px;
+    height: 150px;
+    background-image: url(GD.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/* web design */
+.wd {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid orange;
+    align-content: center;
+    text-align: center;
+}
+
+.wd-image {
+    width: 250px;
+    height: 150px;
+    background-image: url(WD.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/* 4th work */
+.fourth-work {
+    width: auto;
+    background-color: aqua;
+    margin-top: 30px;
 }
 
 
