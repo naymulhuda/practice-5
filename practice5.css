@@ -167,13 +167,38 @@
 /* 4th work */
 .fourth-work {
     width: auto;
-    background-color: aqua;
     margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
+.seo {
+    width: 254px;
+    height: 304px;
+    background-color: white;
+    border: 2px solid orange;
+    align-content: center;
+    text-align: center;
+}
+.seo-image {
+    width: 250px;
+    height: 150px;
+    background-image: url(SEO.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
+.seo-header {
+    text-align: center;
+    align-items: center;
+    color: orange;
+}
 
-
+.seo-text {
+    text-align: center;
+    margin-top: 10px;
+}
 
 
 
